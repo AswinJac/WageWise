@@ -5,10 +5,9 @@
 **WageWise** is a web-based application designed to streamline and automate employee salary management. Built as a **DBMS (Database Management System)** project, it provides administrators with tools to manage employee data, calculate salaries, and generate comprehensive reports.
 
 ## Contributors
-- [Aswin Jacob Thomas](https://github.com/AswinJac) - Role/Responsibilities
-- [Angel Rose Shijo](https://github.com/username) - Role/Responsibilities
-- [Bhavapriya ](https://github.com/username) - Role/Responsibilities
-
+- [Aswin Jacob Thomas](https://github.com/AswinJac)
+- [Angel Rose Shijo](https://github.com/username) 
+- [Bhavapriya ](https://github.com/username)
 ## Key Features
 ### 📁 Employee Management
 - Create/edit/delete employee records
