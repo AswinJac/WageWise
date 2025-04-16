@@ -6,7 +6,7 @@
 
 ## Contributors
 - [Aswin Jacob Thomas](https://github.com/AswinJac)
-- [Angel Rose Shijo](https://github.com/username) 
+- [Angel Rose Shijo](https://github.com/Angel-2003-code) 
 - [Bhavapriya ](https://github.com/username)
 ## Key Features
 ### 📁 Employee Management
